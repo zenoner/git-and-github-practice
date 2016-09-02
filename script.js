@@ -1,0 +1,1 @@
+alert("My partner is cool and this works!")
